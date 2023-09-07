@@ -1,0 +1,10 @@
+.form-cont form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.form-button{
+   margin: 2rem;
+   background-color: red;
+}

@@ -1,0 +1,12 @@
+.card-cont{
+    background-color: yellow;
+    width: 15rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 1rem;
+    border: solid 2px black;
+    border-radius: 10px;
+
+}

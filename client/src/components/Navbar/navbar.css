@@ -1,0 +1,13 @@
+.nav-cont{
+    background-color: red;
+    background-image: url("C:\Users\ivanh\OneDrive\Desktop\PI-Pokemon-main\client\src\utils\256131-pokeclicker3-orig-2-article_cover_bd-1.jpg");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.nav-link-cont{
+    display: flex;
+    justify-content: space-between;
+    width: 7rem;
+}
