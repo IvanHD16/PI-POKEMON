@@ -9,10 +9,6 @@ const Navbar = () => {
         <Link to={"/home"}>HOME</Link>
         <Link to={"/create"}>CREAR</Link>
       </div>
-      <div>
-        <input type="text" name="" id=""/>
-        <input type="submit" name="" id="" />
-      </div>
     </div>
   )
 }

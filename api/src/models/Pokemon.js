@@ -41,22 +41,25 @@ module.exports = async (sequelize) => {
       allowNull: false,
     },
     vida:{
-      type: DataTypes.STRING,
+      type: DataTypes.INTEGER,
+      allowNull: false,
     },
     ataque:{
-      type: DataTypes.STRING,
+      type: DataTypes.INTEGER,
+      allowNull: false,
     },
     defensa:{
-      type: DataTypes.STRING,
+      type: DataTypes.INTEGER,
+      allowNull: false,
     },
     velocidad:{
-      type: DataTypes.STRING,
+      type: DataTypes.INTEGER,
     },
     altura:{
-      type: DataTypes.STRING,
+      type: DataTypes.INTEGER,
     },
     peso:{
-      type: DataTypes.STRING,
+      type: DataTypes.INTEGER,
     }
 
   }, {

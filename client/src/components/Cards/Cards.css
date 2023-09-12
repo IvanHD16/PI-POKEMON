@@ -2,3 +2,13 @@
     text-align: center;
     justify-content: center;
 }
+.show-cards-cont{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.next-prev-cont{
+    display: flex;
+    justify-content: center;
+}
